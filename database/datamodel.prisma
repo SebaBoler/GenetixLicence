@@ -1,0 +1,4 @@
+type Licence {
+  licenceId: ID! @unique
+  Number: String!
+}
